@@ -22,3 +22,4 @@ SPECIFICATIONS
 
 The Azure VMs are implemented in both the east-us and west-us availability zones. Access to the VMs is only allowed for users within the administrative user group. VM is only accessible through RDP on the VPN. The storage account is encrypted with TLS.
 
+<img src="diagram.png">
